@@ -31,7 +31,7 @@ namespace pi_calculator
 
             if (points <= max_points_for_image)
             {
-                Console.Write("Create Bitmap as .png? (y/n): ");
+                Console.Write("Create Bitmap as .png? (Y/N): ");
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 string createbmp = Console.ReadLine();
                 Console.ForegroundColor = ConsoleColor.White;
