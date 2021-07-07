@@ -20,9 +20,9 @@ namespace pi_calculator
 
             // start
             Console.WriteLine();
-            Console.WriteLine("------ PI CALUCATOR by mirza ------");
+            Console.WriteLine("------------------- PI CALUCATOR by mirza -----------------");
             Console.WriteLine();
-            Console.WriteLine("Remember that there will be x Rows with x columns. So choose wiesely...");
+            Console.WriteLine("Remember that there will be x Rows with x columns. \nSo get a cup of tea and make your choice...");
 
             Console.Write("Amount of random Points per Row/Column: ");
             Console.ForegroundColor = ConsoleColor.Yellow;
